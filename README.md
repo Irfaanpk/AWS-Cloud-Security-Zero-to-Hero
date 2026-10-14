@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="./assets/aws-security-banner.jpeg" alt="AWS Cloud Security Zero to Hero Banner">
