@@ -55,7 +55,7 @@ By the end of this course, you will be able to:
 
 This section introduces cloud security concepts, shared responsibility, security principles, threats, vulnerabilities, risk management, and cryptography.
 
-📁 **[Explore → Cloud Security Fundamentals](./01-cloud-security-fundamentals/)**
+📁 **[Explore → Cloud Security Fundamentals](./01-Fundamentals/)**
 
 | # | Sub-Topic | Description |
 |---|-----------|-------------|
