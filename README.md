@@ -47,9 +47,6 @@ By the end of this course, you will be able to:
 - Build practical AWS security solutions through hands-on labs and real-world projects.
 - Prepare for the AWS Certified Security – Specialty (SCS-C03) certification.
 
-```
-
-
 ## 1. Cloud Security Fundamentals
 
 This section introduces cloud security concepts, shared responsibility, security principles, threats, vulnerabilities, risk management, and cryptography.
@@ -229,4 +226,6 @@ This section applies AWS security services and best practices to realistic archi
 - [AWS Security Documentation](https://docs.aws.amazon.com/security/)
 - [AWS Well-Architected Framework — Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 - [AWS Skill Builder](https://skillbuilder.aws/)
+
+``
 
