@@ -48,4 +48,3 @@ By the end of this course, you will be able to:
 - Prepare for the AWS Certified Security – Specialty (SCS-C03) certification.
 
 ```
-
