@@ -59,7 +59,7 @@ This section introduces cloud security concepts, shared responsibility, security
 
 | # | Sub-Topic | Description |
 |---|-----------|-------------|
-| 1.1 | [Cloud Security Fundamentals](./01-cloud-security-fundamentals/Cloud%20Security%20Fundamentals/) | Cloud security concepts, cloud service models, deployment models, shared responsibility model, and cloud security challenges |
+| 1.1 | [Cloud Security Fundamentals](./Fundamentals/Cloud%20Security%20Fundamentals/) | Cloud security concepts, cloud service models, deployment models, shared responsibility model, and cloud security challenges |
 | 1.2 | [Core Security Principles](./01-cloud-security-fundamentals/Core%20Security%20Principles/) | CIA triad, least privilege, defense in depth, Zero Trust, separation of duties, and security by design |
 | 1.3 | [Threats, Vulnerabilities, and Risk](./01-cloud-security-fundamentals/Threats%20Vulnerabilities%20and%20Risk/) | Threats, attack vectors, vulnerabilities, misconfigurations, risk assessment, and mitigation strategies |
 | 1.4 | [Cryptography Fundamentals](./01-cloud-security-fundamentals/Cryptography%20Fundamentals/) | Symmetric and asymmetric encryption, hashing, digital signatures, certificates, TLS, PKI, and key management |
