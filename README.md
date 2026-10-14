@@ -231,5 +231,12 @@ This section applies AWS security services and best practices to realistic archi
 - [AWS Well-Architected Framework — Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 - [AWS Skill Builder](https://skillbuilder.aws/)
 
-``
+---
 
+<div align="center">
+
+**Happy Cloud Building! ☁️**
+
+*If this repo helped you, please consider giving it a ⭐*
+
+</div>
